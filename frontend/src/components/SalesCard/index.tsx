@@ -19,6 +19,7 @@ function SalesCard() {
         .then(response =>{
             console.log(response.data);
         })
+        //add
 
     },[]);
 
