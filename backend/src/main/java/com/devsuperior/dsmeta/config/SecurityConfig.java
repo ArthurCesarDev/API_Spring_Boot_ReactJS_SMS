@@ -26,7 +26,7 @@ public class SecurityConfig {
 
 		return http.build();
 	}
-//segurança dados
+
 	@Bean
 	CorsConfigurationSource corsConfigurationSource() {
 		CorsConfiguration configuration = new CorsConfiguration().applyPermitDefaultValues();
