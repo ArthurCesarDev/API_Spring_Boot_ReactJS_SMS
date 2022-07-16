@@ -5,7 +5,7 @@ import './styles.css'
 import { useEffect, useState } from 'react'
 import axios from 'axios';
 import { BASE_URL } from '../../utils/resquest';
-import { Sale } from '../../Models/sale';
+import { Sale } from '../../Models/Sale';
 function SalesCard() {
 
 
