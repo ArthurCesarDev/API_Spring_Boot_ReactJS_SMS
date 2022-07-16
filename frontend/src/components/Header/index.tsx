@@ -5,11 +5,11 @@ function Header() {
     return(
         <header>
         <div className="dsmeta-logo-container">
-            <img src={logo} alt="DSMeta" />
+            <img src={logo} alt="Gestão" />
             <h1>DSMeta</h1>
             <p>
               Desenvolvido por
-              <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+              <a href="https://www.linkedin.com/in/arthur-cesar-842587164/"> Arthur Cesar</a>
             </p>
         </div>
     </header>
